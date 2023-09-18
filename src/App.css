@@ -1,0 +1,19 @@
+/*.desc{
+  position: relative;
+  right: 100px;
+}*/
+.task{
+background-color:beige;
+width: 400px;
+}
+/*h6{
+  position: relative;
+  right: 150px;
+}*/
+.check{
+  position: relative;
+  left: 150px;
+}
+.caaa{
+  display: flex;
+}
